@@ -1,10 +1,8 @@
-![PipeSmart.ai Logo](https://pipesmart.ai/wp-content/uploads/2024/11/pipesamart.logo_.png)
+![pipesmart.ai Logo](https://pipesmart.ai/wp-content/uploads/2024/11/pipesamart.logo_.png)
 
-# PipeSmart.ai - Seu Copiloto de CRM
+# pipesmart.ai - Your CRM Copilot
 
-# PipeSmart.ai - Your CRM Copilot
-
-## About PipeSmart.ai
+## About pipesmart.ai
 **PipeSmart.ai** is your intelligent CRM copilot, designed to optimize sales team workflows. With advanced automation and artificial intelligence, it simplifies tasks such as:
 
 - Automatic interaction logging
@@ -13,13 +11,13 @@
 - Follow-up scheduling
 - Performance reports and summaries
 
-With **PipeSmart.ai**, your team can focus on what truly matters: **selling more and better**.
+With **pipesmart.ai**, your team can focus on what truly matters: **selling more and better**.
 
 ## Less Manual Input, More Productivity
 Many teams struggle with complex CRMs that divert attention away from sales. **PipeSmart.ai** solves this problem by integrating **AI and automation**, allowing interactions to be recorded and analyzed in seconds without complications.
 
 ## WhatsApp Automation
-Now, **PipeSmart.ai** is also available on **WhatsApp**, enabling your team to:
+Now, **pipesmart.ai** is also available on **WhatsApp**, enabling your team to:
 
 - Prioritize opportunities without leaving the app
 - Receive strategic insights directly in chat
@@ -29,12 +27,12 @@ Now, **PipeSmart.ai** is also available on **WhatsApp**, enabling your team to:
 ## 🚀 Bring Your CRM to the AI Era
 In just a few seconds, connect artificial intelligence to your CRM and see the results. The AI learns from your company’s context and adapts action recommendations, ensuring **real productivity** and smarter decision-making.
 
-## 📽️ See PipeSmart.ai in Action
+## 📽️ See pipesmart.ai in Action
 Check out the **full demo** of PipeSmart.ai on YouTube:
-[![Demo PipeSmart.ai](https://img.youtube.com/vi/V8sxhxG2i4Q/0.jpg)](https://youtu.be/V8sxhxG2i4Q)
+[![Demo pipesmart.ai](https://img.youtube.com/vi/V8sxhxG2i4Q/0.jpg)](https://youtu.be/V8sxhxG2i4Q)
 
 ## 🔗 Schedule a Demo
-Try **PipeSmart.ai** and discover how it can transform your sales management.
+Try **pipesmart.ai** and discover how it can transform your sales management.
 👉 [Schedule a demo on the website](https://pipesmart.ai)
 
 ## 📞 Contact
